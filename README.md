@@ -11,7 +11,9 @@
 
 * 눌로봥 *
 ---
-![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
+
+![orange](https://img.shields.io/static/v1?&message=orange&color=orange)
+
 
 <!--
 **kangjiseo/kangjiseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
