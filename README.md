@@ -1,6 +1,8 @@
 ### Hi there 👋
-## 방가방가
+## 🥨방가방가
 ## 하이룽
+
+![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
 
 <!--
 **kangjiseo/kangjiseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
