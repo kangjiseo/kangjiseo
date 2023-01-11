@@ -2,12 +2,15 @@
 <hr>
 
 >🥨방가방가
->>![#2AA5DC](https://simpleicons.org/) 하이룽
+>>:snowman:하이룽<br>
+>>:cry: 현재 직업 '백수'<br>
+>>:sob: 슬포
 
-이메일 : tkdrnqlf@naver.com <br>
-모바일 : 010-5771-1716
+>>:zap:이메일 : tkdrnqlf@naver.com <br>
+>>:umbrella:모바일 : 010-5771-1716
 
-
+* 눌로봥 *
+---
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
 
 <!--
