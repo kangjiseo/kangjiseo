@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🥨방가방가
-## 하이룽
+## #2AA5DC 하이룽
 
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
 
